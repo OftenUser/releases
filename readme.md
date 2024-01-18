@@ -1752,7 +1752,7 @@ MIT
 |[v1.1.0](https://github.com/electron/electron/releases/tag/v1.1.0)|2016-05-14||no|48|6.1.0|50.0.2661.102|83900|
 |[v1.0.2](https://github.com/electron/electron/releases/tag/v1.0.2)|2016-05-13||no|47|5.10.0|49.0.2623.75|50638|
 |[v1.0.1](https://github.com/electron/electron/releases/tag/v1.0.1)|2016-05-11||no|47|5.10.0|49.0.2623.75|44819|
-|[v1.0.0](https://github.com/electron/electron/releases/tag/v1.0.0)|2016-05-11||no|47|5.10.0|49.0.2623.75|155648|
+|[v1.0.0](https://github.com/electron/electron/releases/tag/v1.0.0)|May 11, 2016||no|47|5.10.0|49.0.2623.75|155648|
 |[v0.37.8](https://github.com/electron/electron/releases/tag/v0.37.8)|2016-04-29||no|47|5.10.0|49.0.2623.75|277172|
 |[v0.37.7](https://github.com/electron/electron/releases/tag/v0.37.7)|2016-04-22||no|47|5.10.0|49.0.2623.75|58792|
 |[v0.37.6](https://github.com/electron/electron/releases/tag/v0.37.6)|2016-04-15||no|47|5.10.0|49.0.2623.75|98520|
@@ -1828,7 +1828,7 @@ MIT
 |[v0.26.1](https://github.com/electron/electron/releases/tag/v0.26.1)|2015-05-21||no|43|1.6.3|42.0.2311.107|12384|
 |[v0.26.0](https://github.com/electron/electron/releases/tag/v0.26.0)|2015-05-12||no|43|1.6.3|42.0.2311.107|10992|
 |[v0.25.3](https://github.com/electron/electron/releases/tag/v0.25.3)|2015-05-08||no|43|1.6.3|42.0.2311.107|16223|
-|[v0.25.2](https://github.com/electron/electron/releases/tag/v0.25.2)|2015-05-01||no|43|1.6.3|42.0.2311.107|8439|
+|[v0.25.2](https://github.com/electron/electron/releases/tag/v0.25.2)|May 1, 2015||no|43|1.6.3|42.0.2311.107|8439|
 |[v0.25.1](https://github.com/electron/electron/releases/tag/v0.25.1)|2015-04-23||no|43|1.6.3|42.0.2311.107|15829|
 |[v0.25.0](https://github.com/electron/electron/releases/tag/v0.25.0)|2015-04-22||no|43|1.6.3|42.0.2311.107|1734|
 |[v0.24.0](https://github.com/electron/electron/releases/tag/v0.24.0)|2015-04-17||no|43|1.6.3|41.0.2272.76|8388|
@@ -1890,7 +1890,7 @@ MIT
 |[v0.12.4](https://github.com/electron/electron/releases/tag/v0.12.4)|2014-05-12||no||||20172|
 |[v0.12.3](https://github.com/electron/electron/releases/tag/v0.12.3)|2014-05-07||no||||6487|
 |[v0.12.2](https://github.com/electron/electron/releases/tag/v0.12.2)|2014-05-05||no||||5097|
-|[v0.12.1](https://github.com/electron/electron/releases/tag/v0.12.1)|2014-05-05||no||||316|
+|[v0.12.1](https://github.com/electron/electron/releases/tag/v0.12.1)|May 5, 2014||no||||316|
 |[v0.12.0](https://github.com/electron/electron/releases/tag/v0.12.0)|2014-04-29||no||||286|
 |[v0.11.10](https://github.com/electron/electron/releases/tag/v0.11.10)|2014-04-14||no||||194|
 |[v0.11.9](https://github.com/electron/electron/releases/tag/v0.11.9)|2014-04-11||no||||186|
@@ -1961,7 +1961,7 @@ MIT
 |[v0.3.5](https://github.com/electron/electron/releases/tag/v0.3.5)|August 16, 2013||no||||0|
 |[v0.3.4](https://github.com/electron/electron/releases/tag/v0.3.4)|August 15, 2013||no||||0|
 |[v0.3.3](https://github.com/electron/electron/releases/tag/v0.3.3)|August 15, 2013||no||||0|
-|[v0.3.2](https://github.com/electron/electron/releases/tag/v0.3.2)|2013-08-13||no||||0|
-|[v0.3.1](https://github.com/electron/electron/releases/tag/v0.3.1)|2013-08-12||no||||0|
+|[v0.3.2](https://github.com/electron/electron/releases/tag/v0.3.2)|August 13, 2013||no||||0|
+|[v0.3.1](https://github.com/electron/electron/releases/tag/v0.3.1)|August 12, 2013||no||||0|
 
 <!-- END RELEASES TABLE -->
