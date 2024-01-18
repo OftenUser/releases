@@ -850,14 +850,14 @@ MIT
 |[v14.0.0-beta.7](https://github.com/electron/electron/releases/tag/v14.0.0-beta.7)|2021-06-17||yes|89|14.17.0|93.0.4536.0|2413|
 |[v14.0.0-beta.6](https://github.com/electron/electron/releases/tag/v14.0.0-beta.6)|2021-06-14||yes|89|14.17.0|93.0.4536.0|2317|
 |[v14.0.0-beta.5](https://github.com/electron/electron/releases/tag/v14.0.0-beta.5)|2021-06-10||yes|89|14.17.0|93.0.4536.0|5893|
-|[v14.0.0-beta.3](https://github.com/electron/electron/releases/tag/v14.0.0-beta.3)|2021-06-03||yes|89|14.17.0|92.0.4511.0|5937|
-|[v14.0.0-beta.2](https://github.com/electron/electron/releases/tag/v14.0.0-beta.2)|2021-05-31||yes|89|14.17.0|92.0.4511.0|2609|
-|[v14.0.0-beta.1](https://github.com/electron/electron/releases/tag/v14.0.0-beta.1)|2021-05-26||yes|89|14.17.0|92.0.4511.0|17318|
+|[v14.0.0-beta.3](https://github.com/electron/electron/releases/tag/v14.0.0-beta.3)|June 3, 2021||yes|89|14.17.0|92.0.4511.0|5937|
+|[v14.0.0-beta.2](https://github.com/electron/electron/releases/tag/v14.0.0-beta.2)|May 31, 2021||yes|89|14.17.0|92.0.4511.0|2609|
+|[v14.0.0-beta.1](https://github.com/electron/electron/releases/tag/v14.0.0-beta.1)|May 26, 2021||yes|89|14.17.0|92.0.4511.0|17318|
 |[v13.6.9](https://github.com/electron/electron/releases/tag/v13.6.9)|February 1, 2022|13-x-y|no|89|14.16.0|91.0.4472.164|484285|
-|[v13.6.8](https://github.com/electron/electron/releases/tag/v13.6.8)|2022-01-26||no|89|14.16.0|91.0.4472.164|32567|
-|[v13.6.7](https://github.com/electron/electron/releases/tag/v13.6.7)|2022-01-12||no|89|14.16.0|91.0.4472.164|124154|
-|[v13.6.6](https://github.com/electron/electron/releases/tag/v13.6.6)|2022-01-04||no|89|14.16.0|91.0.4472.164|152094|
-|[v13.6.3](https://github.com/electron/electron/releases/tag/v13.6.3)|2021-12-01||no|89|14.16.0|91.0.4472.164|152078|
+|[v13.6.8](https://github.com/electron/electron/releases/tag/v13.6.8)|January 26, 2022||no|89|14.16.0|91.0.4472.164|32567|
+|[v13.6.7](https://github.com/electron/electron/releases/tag/v13.6.7)|January 12, 2022||no|89|14.16.0|91.0.4472.164|124154|
+|[v13.6.6](https://github.com/electron/electron/releases/tag/v13.6.6)|January 4, 2022||no|89|14.16.0|91.0.4472.164|152094|
+|[v13.6.3](https://github.com/electron/electron/releases/tag/v13.6.3)|December 1, 2021||no|89|14.16.0|91.0.4472.164|152078|
 |[v13.6.2](https://github.com/electron/electron/releases/tag/v13.6.2)|2021-11-16||no|89|14.16.0|91.0.4472.164|103474|
 |[v13.6.1](https://github.com/electron/electron/releases/tag/v13.6.1)|2021-10-28||no|89|14.16.0|91.0.4472.164|156214|
 |[v13.6.0](https://github.com/electron/electron/releases/tag/v13.6.0)|2021-10-21||no|89|14.16.0|91.0.4472.164|82291|
@@ -939,7 +939,7 @@ MIT
 |[v13.0.0-beta.24](https://github.com/electron/electron/releases/tag/v13.0.0-beta.24)|2021-05-11||yes|89|14.16.0|91.0.4472.38|3149|
 |[v13.0.0-beta.23](https://github.com/electron/electron/releases/tag/v13.0.0-beta.23)|2021-05-07||yes|89|14.16.0|91.0.4472.33|2181|
 |[v13.0.0-beta.22](https://github.com/electron/electron/releases/tag/v13.0.0-beta.22)|2021-05-06||yes|89|14.16.0|91.0.4472.33|1697|
-|[v13.0.0-beta.21](https://github.com/electron/electron/releases/tag/v13.0.0-beta.21)|2021-05-05||yes|89|14.16.0|91.0.4472.33|3236|
+|[v13.0.0-beta.21](https://github.com/electron/electron/releases/tag/v13.0.0-beta.21)|May 5, 2021||yes|89|14.16.0|91.0.4472.33|3236|
 |[v13.0.0-beta.20](https://github.com/electron/electron/releases/tag/v13.0.0-beta.20)|2021-05-04||yes|89|14.16.0|91.0.4448.0|2051|
 |[v13.0.0-beta.18](https://github.com/electron/electron/releases/tag/v13.0.0-beta.18)|2021-04-26||yes|89|14.16.0|91.0.4448.0|3298|
 |[v13.0.0-beta.17](https://github.com/electron/electron/releases/tag/v13.0.0-beta.17)|2021-04-22||yes|89|14.16.0|91.0.4448.0|2011|
@@ -997,14 +997,14 @@ MIT
 |[v12.0.0-nightly.20201014](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20201014)|2020-10-14||yes|87|14.13.1|87.0.4268.0|689|
 |[v12.0.0-nightly.20201013](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20201013)|2020-10-13||yes|87|14.13.1|87.0.4268.0|692|
 |[v12.0.0-nightly.20200914](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200914)|2020-09-14||yes|82|12.18.3|86.0.4234.0|1532|
-|[v12.0.0-nightly.20200911](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200911)|2020-09-11||yes|82|12.18.3|86.0.4234.0|655|
+|[v12.0.0-nightly.20200911](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200911)|September 11, 2020||yes|82|12.18.3|86.0.4234.0|655|
 |[v12.0.0-nightly.20200910](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200910)|2020-09-10||yes|82|12.18.3|86.0.4234.0|773|
 |[v12.0.0-nightly.20200907](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200907)|2020-09-07||yes|82|12.18.3|86.0.4234.0|660|
 |[v12.0.0-nightly.20200903](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200903)|2020-09-03||yes|82|12.18.3|86.0.4234.0|952|
 |[v12.0.0-nightly.20200902](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200902)|2020-09-02||yes|82|12.18.3|86.0.4234.0|677|
 |[v12.0.0-nightly.20200831](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200831)|2020-08-31||yes|82|12.18.3|86.0.4234.0|714|
 |[v12.0.0-nightly.20200827](https://github.com/electron/electron/releases/tag/v12.0.0-nightly.20200827)|2020-08-27||yes|82|12.18.3|86.0.4234.0|754|
-|[v12.0.0-beta.31](https://github.com/electron/electron/releases/tag/v12.0.0-beta.31)|2021-03-01|beta-12-x-y|yes|87|14.16.0|89.0.4389.58|2453|
+|[v12.0.0-beta.31](https://github.com/electron/electron/releases/tag/v12.0.0-beta.31)|March 1, 2021|beta-12-x-y|yes|87|14.16.0|89.0.4389.58|2453|
 |[v12.0.0-beta.30](https://github.com/electron/electron/releases/tag/v12.0.0-beta.30)|2021-02-25||yes|87|14.15.1|89.0.4389.58|3434|
 |[v12.0.0-beta.29](https://github.com/electron/electron/releases/tag/v12.0.0-beta.29)|2021-02-23||yes|87|14.15.1|89.0.4389.23|2207|
 |[v12.0.0-beta.28](https://github.com/electron/electron/releases/tag/v12.0.0-beta.28)|2021-02-22||yes|87|14.15.1|89.0.4389.23|3529|
@@ -1031,7 +1031,7 @@ MIT
 |[v12.0.0-beta.4](https://github.com/electron/electron/releases/tag/v12.0.0-beta.4)|2020-11-26||yes|87|14.15.1|89.0.4328.0|3599|
 |[v12.0.0-beta.3](https://github.com/electron/electron/releases/tag/v12.0.0-beta.3)|2020-11-23||yes|87|14.15.1|89.0.4328.0|2229|
 |[v12.0.0-beta.1](https://github.com/electron/electron/releases/tag/v12.0.0-beta.1)|2020-11-19||yes|87|14.15.1|89.0.4328.0|2554|
-|[v11.5.0](https://github.com/electron/electron/releases/tag/v11.5.0)|2021-08-31|11-x-y|no|85|12.18.3|87.0.4280.141|2155636|
+|[v11.5.0](https://github.com/electron/electron/releases/tag/v11.5.0)|August 31, 2021|11-x-y|no|85|12.18.3|87.0.4280.141|2155636|
 |[v11.4.12](https://github.com/electron/electron/releases/tag/v11.4.12)|2021-08-18||no|85|12.18.3|87.0.4280.141|131479|
 |[v11.4.11](https://github.com/electron/electron/releases/tag/v11.4.11)|2021-08-03||no|85|12.18.3|87.0.4280.141|99954|
 |[v11.4.10](https://github.com/electron/electron/releases/tag/v11.4.10)|2021-07-06||no|85|12.18.3|87.0.4280.141|286959|
@@ -1039,7 +1039,7 @@ MIT
 |[v11.4.8](https://github.com/electron/electron/releases/tag/v11.4.8)|2021-06-03||no|85|12.18.3|87.0.4280.141|200408|
 |[v11.4.7](https://github.com/electron/electron/releases/tag/v11.4.7)|2021-05-17||no|85|12.18.3|87.0.4280.141|176937|
 |[v11.4.6](https://github.com/electron/electron/releases/tag/v11.4.6)|2021-05-08||no|85|12.18.3|87.0.4280.141|201175|
-|[v11.4.5](https://github.com/electron/electron/releases/tag/v11.4.5)|2021-05-05||no|85|12.18.3|87.0.4280.141|46073|
+|[v11.4.5](https://github.com/electron/electron/releases/tag/v11.4.5)|May 5, 2021||no|85|12.18.3|87.0.4280.141|46073|
 |[v11.4.4](https://github.com/electron/electron/releases/tag/v11.4.4)|2021-04-27||no|85|12.18.3|87.0.4280.141|95618|
 |[v11.4.3](https://github.com/electron/electron/releases/tag/v11.4.3)|2021-04-14||no|85|12.18.3|87.0.4280.141|256717|
 |[v11.4.2](https://github.com/electron/electron/releases/tag/v11.4.2)|2021-04-02||no|85|12.18.3|87.0.4280.141|125749|
@@ -1113,11 +1113,11 @@ MIT
 |[v11.0.0-beta.6](https://github.com/electron/electron/releases/tag/v11.0.0-beta.6)|2020-09-10||yes|82|12.18.3|86.0.4234.0|3321|
 |[v11.0.0-beta.5](https://github.com/electron/electron/releases/tag/v11.0.0-beta.5)|2020-09-07||yes|82|12.18.3|86.0.4234.0|2496|
 |[v11.0.0-beta.4](https://github.com/electron/electron/releases/tag/v11.0.0-beta.4)|2020-09-03||yes|82|12.18.3|86.0.4234.0|5638|
-|[v11.0.0-beta.3](https://github.com/electron/electron/releases/tag/v11.0.0-beta.3)|2020-08-31||yes|82|12.18.3|86.0.4234.0|2557|
-|[v11.0.0-beta.1](https://github.com/electron/electron/releases/tag/v11.0.0-beta.1)|2020-08-26||yes|82|12.18.3|86.0.4234.0|3118|
-|[v10.4.7](https://github.com/electron/electron/releases/tag/v10.4.7)|2021-05-24|10-x-y|no|82|12.16.3|85.0.4183.121|264595|
-|[v10.4.6](https://github.com/electron/electron/releases/tag/v10.4.6)|2021-05-19||no|82|12.16.3|85.0.4183.121|8956|
-|[v10.4.5](https://github.com/electron/electron/releases/tag/v10.4.5)|2021-05-05||no|82|12.16.3|85.0.4183.121|51763|
+|[v11.0.0-beta.3](https://github.com/electron/electron/releases/tag/v11.0.0-beta.3)|August 31, 2020||yes|82|12.18.3|86.0.4234.0|2557|
+|[v11.0.0-beta.1](https://github.com/electron/electron/releases/tag/v11.0.0-beta.1)|August 26, 2020||yes|82|12.18.3|86.0.4234.0|3118|
+|[v10.4.7](https://github.com/electron/electron/releases/tag/v10.4.7)|May 24, 2021|10-x-y|no|82|12.16.3|85.0.4183.121|264595|
+|[v10.4.6](https://github.com/electron/electron/releases/tag/v10.4.6)|May 19, 2021||no|82|12.16.3|85.0.4183.121|8956|
+|[v10.4.5](https://github.com/electron/electron/releases/tag/v10.4.5)|May 5, 2021||no|82|12.16.3|85.0.4183.121|51763|
 |[v10.4.4](https://github.com/electron/electron/releases/tag/v10.4.4)|2021-04-27||no|82|12.16.3|85.0.4183.121|23290|
 |[v10.4.3](https://github.com/electron/electron/releases/tag/v10.4.3)|2021-04-14||no|82|12.16.3|85.0.4183.121|78617|
 |[v10.4.2](https://github.com/electron/electron/releases/tag/v10.4.2)|2021-03-23||no|82|12.16.3|85.0.4183.121|53762|
@@ -1133,11 +1133,11 @@ MIT
 |[v10.1.4](https://github.com/electron/electron/releases/tag/v10.1.4)|2020-10-20||no|82|12.16.3|85.0.4183.121|189094|
 |[v10.1.3](https://github.com/electron/electron/releases/tag/v10.1.3)|2020-09-29||no|82|12.16.3|85.0.4183.121|340102|
 |[v10.1.2](https://github.com/electron/electron/releases/tag/v10.1.2)|2020-09-14||no|82|12.16.3|85.0.4183.98|233599|
-|[v10.1.1](https://github.com/electron/electron/releases/tag/v10.1.1)|2020-09-01||no|82|12.16.3|85.0.4183.93|242164|
-|[v10.1.0](https://github.com/electron/electron/releases/tag/v10.1.0)|2020-08-28||no|82|12.16.3|85.0.4183.87|73501|
-|[v10.0.1](https://github.com/electron/electron/releases/tag/v10.0.1)|2020-08-27||no|82|12.16.3|85.0.4183.86|5161|
-|[v10.0.0](https://github.com/electron/electron/releases/tag/v10.0.0)|2020-08-24||no|82|12.16.3|85.0.4183.84|311329|
-|[v10.0.0-nightly.20200521](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200521)|2020-05-21||yes|82|12.16.3|84.0.4129.0|573|
+|[v10.1.1](https://github.com/electron/electron/releases/tag/v10.1.1)|September 1, 2020||no|82|12.16.3|85.0.4183.93|242164|
+|[v10.1.0](https://github.com/electron/electron/releases/tag/v10.1.0)|August 28, 2020||no|82|12.16.3|85.0.4183.87|73501|
+|[v10.0.1](https://github.com/electron/electron/releases/tag/v10.0.1)|August 27, 2020||no|82|12.16.3|85.0.4183.86|5161|
+|[v10.0.0](https://github.com/electron/electron/releases/tag/v10.0.0)|August 24, 2020||no|82|12.16.3|85.0.4183.84|311329|
+|[v10.0.0-nightly.20200521](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200521)|May 21, 2020||yes|82|12.16.3|84.0.4129.0|573|
 |[v10.0.0-nightly.20200520](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200520)|2020-05-20||yes|82|12.16.3|84.0.4129.0|385|
 |[v10.0.0-nightly.20200519](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200519)|2020-05-19||yes|82|12.16.3|84.0.4129.0|376|
 |[v10.0.0-nightly.20200518](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200518)|2020-05-18||yes|82|12.16.3|84.0.4129.0|407|
@@ -1186,7 +1186,7 @@ MIT
 |[v10.0.0-nightly.20200306](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200306)|2020-03-06||yes|82|12.16.1|82.0.4076.0|419|
 |[v10.0.0-nightly.20200305](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200305)|2020-03-05||yes|82|12.16.1|82.0.4076.0|347|
 |[v10.0.0-nightly.20200304](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200304)|2020-03-04||yes|82|12.16.1|82.0.4076.0|350|
-|[v10.0.0-nightly.20200303](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200303)|2020-03-03||yes|82|12.16.1|82.0.4050.0|354|
+|[v10.0.0-nightly.20200303](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200303)|March 3, 2020||yes|82|12.16.1|82.0.4050.0|354|
 |[v10.0.0-nightly.20200226](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200226)|February 26, 2020||yes|82|12.16.1|82.0.4050.0|563|
 |[v10.0.0-nightly.20200223](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200223)|February 23, 2020||yes|82|12.15.0|82.0.4050.0|445|
 |[v10.0.0-nightly.20200222](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200222)|February 22, 2020||yes|82|12.15.0|82.0.4050.0|368|
@@ -1197,61 +1197,61 @@ MIT
 |[v10.0.0-nightly.20200211](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200211)|February 11, 2020||yes|76|12.15.0|82.0.4050.0|488|
 |[v10.0.0-nightly.20200210](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200210)|February 10, 2020||yes|76|12.14.1|82.0.4050.0|874|
 |[v10.0.0-nightly.20200209](https://github.com/electron/electron/releases/tag/v10.0.0-nightly.20200209)|February 9, 2020||yes|76|12.14.1|82.0.4050.0|403|
-|[v10.0.0-beta.25](https://github.com/electron/electron/releases/tag/v10.0.0-beta.25)|2020-08-22|beta-10-x-y|yes|82|12.16.3|85.0.4183.80|21102|
-|[v10.0.0-beta.24](https://github.com/electron/electron/releases/tag/v10.0.0-beta.24)|2020-08-20||yes|82|12.16.3|85.0.4183.78|2041|
-|[v10.0.0-beta.23](https://github.com/electron/electron/releases/tag/v10.0.0-beta.23)|2020-08-17||yes|82|12.16.3|85.0.4183.70|2821|
-|[v10.0.0-beta.21](https://github.com/electron/electron/releases/tag/v10.0.0-beta.21)|2020-08-11||yes|82|12.16.3|85.0.4183.39|7268|
-|[v10.0.0-beta.20](https://github.com/electron/electron/releases/tag/v10.0.0-beta.20)|2020-08-10||yes|82|12.16.3|85.0.4183.39|1906|
-|[v10.0.0-beta.19](https://github.com/electron/electron/releases/tag/v10.0.0-beta.19)|2020-08-06||yes|82|12.16.3|85.0.4183.39|2374|
-|[v10.0.0-beta.17](https://github.com/electron/electron/releases/tag/v10.0.0-beta.17)|2020-08-03||yes|82|12.16.3|85.0.4183.39|2061|
-|[v10.0.0-beta.15](https://github.com/electron/electron/releases/tag/v10.0.0-beta.15)|2020-07-29||yes|82|12.16.3|85.0.4183.39|3095|
-|[v10.0.0-beta.14](https://github.com/electron/electron/releases/tag/v10.0.0-beta.14)|2020-07-27||yes|82|12.16.3|85.0.4183.39|2097|
-|[v10.0.0-beta.13](https://github.com/electron/electron/releases/tag/v10.0.0-beta.13)|2020-07-23||yes|82|12.16.3|85.0.4183.39|1787|
-|[v10.0.0-beta.12](https://github.com/electron/electron/releases/tag/v10.0.0-beta.12)|2020-07-16||yes|82|12.16.3|85.0.4183.26|3620|
-|[v10.0.0-beta.11](https://github.com/electron/electron/releases/tag/v10.0.0-beta.11)|2020-07-13||yes|82|12.16.3|85.0.4183.20|2290|
-|[v10.0.0-beta.10](https://github.com/electron/electron/releases/tag/v10.0.0-beta.10)|2020-07-09||yes|82|12.16.3|85.0.4183.19|2449|
-|[v10.0.0-beta.9](https://github.com/electron/electron/releases/tag/v10.0.0-beta.9)|2020-07-06||yes|82|12.16.3|85.0.4181.1|2277|
-|[v10.0.0-beta.8](https://github.com/electron/electron/releases/tag/v10.0.0-beta.8)|2020-07-02||yes|82|12.16.3|85.0.4181.1|2068|
-|[v10.0.0-beta.4](https://github.com/electron/electron/releases/tag/v10.0.0-beta.4)|2020-06-18||yes|82|12.16.3|85.0.4161.2|2848|
-|[v10.0.0-beta.3](https://github.com/electron/electron/releases/tag/v10.0.0-beta.3)|2020-06-15||yes|82|12.16.3|85.0.4161.2|1817|
-|[v10.0.0-beta.2](https://github.com/electron/electron/releases/tag/v10.0.0-beta.2)|2020-06-01||yes|82|12.16.3|84.0.4129.0|3087|
-|[v10.0.0-beta.1](https://github.com/electron/electron/releases/tag/v10.0.0-beta.1)|2020-05-22||yes|82|12.16.3|84.0.4129.0|9119|
-|[v9.4.4](https://github.com/electron/electron/releases/tag/v9.4.4)|2021-03-03|9-x-y|no|80|12.14.1|83.0.4103.122|932460|
-|[v9.4.3](https://github.com/electron/electron/releases/tag/v9.4.3)|2021-02-05||no|80|12.14.1|83.0.4103.122|179024|
-|[v9.4.2](https://github.com/electron/electron/releases/tag/v9.4.2)|2021-01-27||no|80|12.14.1|83.0.4103.122|143792|
-|[v9.4.1](https://github.com/electron/electron/releases/tag/v9.4.1)|2021-01-13||no|80|12.14.1|83.0.4103.122|213204|
-|[v9.4.0](https://github.com/electron/electron/releases/tag/v9.4.0)|2020-12-12||no|80|12.14.1|83.0.4103.122|420821|
-|[v9.3.5](https://github.com/electron/electron/releases/tag/v9.3.5)|2020-11-24||no|80|12.14.1|83.0.4103.122|185695|
-|[v9.3.4](https://github.com/electron/electron/releases/tag/v9.3.4)|2020-11-10||no|80|12.14.1|83.0.4103.122|107262|
-|[v9.3.3](https://github.com/electron/electron/releases/tag/v9.3.3)|2020-10-26||no|80|12.14.1|83.0.4103.122|140963|
-|[v9.3.2](https://github.com/electron/electron/releases/tag/v9.3.2)|2020-10-05||no|80|12.14.1|83.0.4103.122|330058|
-|[v9.3.1](https://github.com/electron/electron/releases/tag/v9.3.1)|2020-09-15||no|80|12.14.1|83.0.4103.122|315628|
-|[v9.3.0](https://github.com/electron/electron/releases/tag/v9.3.0)|2020-09-03||no|80|12.14.1|83.0.4103.122|165973|
-|[v9.2.1](https://github.com/electron/electron/releases/tag/v9.2.1)|2020-08-18||no|80|12.14.1|83.0.4103.122|290803|
-|[v9.2.0](https://github.com/electron/electron/releases/tag/v9.2.0)|2020-08-07||no|80|12.14.1|83.0.4103.122|390053|
-|[v9.1.2](https://github.com/electron/electron/releases/tag/v9.1.2)|2020-07-28||no|80|12.14.1|83.0.4103.122|237509|
-|[v9.1.1](https://github.com/electron/electron/releases/tag/v9.1.1)|2020-07-20||no|80|12.14.1|83.0.4103.122|182182|
-|[v9.1.0](https://github.com/electron/electron/releases/tag/v9.1.0)|2020-07-06||no|80|12.14.1|83.0.4103.122|499431|
-|[v9.0.5](https://github.com/electron/electron/releases/tag/v9.0.5)|2020-06-22||no|80|12.14.1|83.0.4103.119|351526|
-|[v9.0.4](https://github.com/electron/electron/releases/tag/v9.0.4)|2020-06-12||no|80|12.14.1|83.0.4103.104|199901|
-|[v9.0.3](https://github.com/electron/electron/releases/tag/v9.0.3)|2020-06-08||no|80|12.14.1|83.0.4103.100|95629|
-|[v9.0.2](https://github.com/electron/electron/releases/tag/v9.0.2)|2020-06-02||no|80|12.14.1|83.0.4103.94|180988|
-|[v9.0.1](https://github.com/electron/electron/releases/tag/v9.0.1)|2020-06-01||no|80|12.14.1|83.0.4103.94|63694|
-|[v9.0.0](https://github.com/electron/electron/releases/tag/v9.0.0)|2020-05-19||no|80|12.14.1|83.0.4103.64|929365|
-|[v9.0.0-nightly.20200121](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200121)|2020-01-21||yes|76|12.14.1|81.0.4030.0|1006|
-|[v9.0.0-nightly.20200119](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200119)|2020-01-19||yes|76|12.14.1|81.0.4030.0|406|
-|[v9.0.0-nightly.20200117](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200117)|2020-01-17||yes|76|12.14.1|81.0.3994.0|539|
-|[v9.0.0-nightly.20200116](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200116)|2020-01-16||yes|76|12.14.1|81.0.3994.0|481|
-|[v9.0.0-nightly.20200115](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200115)|2020-01-15||yes|76|12.14.1|81.0.3994.0|440|
-|[v9.0.0-nightly.20200113](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200113)|2020-01-13||yes|76|12.14.1|81.0.3994.0|440|
-|[v9.0.0-nightly.20200111](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200111)|2020-01-11||yes|76|12.14.1|81.0.3994.0|369|
-|[v9.0.0-nightly.20200110](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200110)|2020-01-10||yes|76|12.14.1|81.0.3994.0|448|
-|[v9.0.0-nightly.20200109](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200109)|2020-01-09||yes|76|12.14.0|81.0.3994.0|401|
-|[v9.0.0-nightly.20200108](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200108)|2020-01-08||yes|76|12.14.0|81.0.3994.0|414|
-|[v9.0.0-nightly.20200106](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200106)|2020-01-06||yes|76|12.14.0|81.0.3994.0|382|
-|[v9.0.0-nightly.20200105](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200105)|2020-01-05||yes|76|12.14.0|81.0.3994.0|367|
-|[v9.0.0-nightly.20200104](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200104)|2020-01-04||yes|76|12.14.0|81.0.3994.0|486|
-|[v9.0.0-nightly.20200103](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200103)|2020-01-03||yes|76|12.14.0|81.0.3994.0|379|
+|[v10.0.0-beta.25](https://github.com/electron/electron/releases/tag/v10.0.0-beta.25)|August 22, 2020|beta-10-x-y|yes|82|12.16.3|85.0.4183.80|21102|
+|[v10.0.0-beta.24](https://github.com/electron/electron/releases/tag/v10.0.0-beta.24)|August 20, 2020||yes|82|12.16.3|85.0.4183.78|2041|
+|[v10.0.0-beta.23](https://github.com/electron/electron/releases/tag/v10.0.0-beta.23)|August 17, 2020||yes|82|12.16.3|85.0.4183.70|2821|
+|[v10.0.0-beta.21](https://github.com/electron/electron/releases/tag/v10.0.0-beta.21)|August 11, 2020||yes|82|12.16.3|85.0.4183.39|7268|
+|[v10.0.0-beta.20](https://github.com/electron/electron/releases/tag/v10.0.0-beta.20)|August 10, 2020||yes|82|12.16.3|85.0.4183.39|1906|
+|[v10.0.0-beta.19](https://github.com/electron/electron/releases/tag/v10.0.0-beta.19)|August 6, 2020||yes|82|12.16.3|85.0.4183.39|2374|
+|[v10.0.0-beta.17](https://github.com/electron/electron/releases/tag/v10.0.0-beta.17)|August 3, 2020||yes|82|12.16.3|85.0.4183.39|2061|
+|[v10.0.0-beta.15](https://github.com/electron/electron/releases/tag/v10.0.0-beta.15)|July 29, 2020||yes|82|12.16.3|85.0.4183.39|3095|
+|[v10.0.0-beta.14](https://github.com/electron/electron/releases/tag/v10.0.0-beta.14)|July 27, 2020||yes|82|12.16.3|85.0.4183.39|2097|
+|[v10.0.0-beta.13](https://github.com/electron/electron/releases/tag/v10.0.0-beta.13)|July 23, 2020||yes|82|12.16.3|85.0.4183.39|1787|
+|[v10.0.0-beta.12](https://github.com/electron/electron/releases/tag/v10.0.0-beta.12)|July 16, 2020||yes|82|12.16.3|85.0.4183.26|3620|
+|[v10.0.0-beta.11](https://github.com/electron/electron/releases/tag/v10.0.0-beta.11)|July 13, 2020||yes|82|12.16.3|85.0.4183.20|2290|
+|[v10.0.0-beta.10](https://github.com/electron/electron/releases/tag/v10.0.0-beta.10)|July 9, 2020||yes|82|12.16.3|85.0.4183.19|2449|
+|[v10.0.0-beta.9](https://github.com/electron/electron/releases/tag/v10.0.0-beta.9)|July 6, 2020||yes|82|12.16.3|85.0.4181.1|2277|
+|[v10.0.0-beta.8](https://github.com/electron/electron/releases/tag/v10.0.0-beta.8)|July 2, 2020||yes|82|12.16.3|85.0.4181.1|2068|
+|[v10.0.0-beta.4](https://github.com/electron/electron/releases/tag/v10.0.0-beta.4)|June 18, 2020||yes|82|12.16.3|85.0.4161.2|2848|
+|[v10.0.0-beta.3](https://github.com/electron/electron/releases/tag/v10.0.0-beta.3)|June 15, 2020||yes|82|12.16.3|85.0.4161.2|1817|
+|[v10.0.0-beta.2](https://github.com/electron/electron/releases/tag/v10.0.0-beta.2)|June 1, 2020||yes|82|12.16.3|84.0.4129.0|3087|
+|[v10.0.0-beta.1](https://github.com/electron/electron/releases/tag/v10.0.0-beta.1)|May 22, 2020||yes|82|12.16.3|84.0.4129.0|9119|
+|[v9.4.4](https://github.com/electron/electron/releases/tag/v9.4.4)|March 3, 2021|9-x-y|no|80|12.14.1|83.0.4103.122|932460|
+|[v9.4.3](https://github.com/electron/electron/releases/tag/v9.4.3)|February 5, 2021||no|80|12.14.1|83.0.4103.122|179024|
+|[v9.4.2](https://github.com/electron/electron/releases/tag/v9.4.2)|January 27, 2021||no|80|12.14.1|83.0.4103.122|143792|
+|[v9.4.1](https://github.com/electron/electron/releases/tag/v9.4.1)|January 13, 2021||no|80|12.14.1|83.0.4103.122|213204|
+|[v9.4.0](https://github.com/electron/electron/releases/tag/v9.4.0)|December 12, 2020||no|80|12.14.1|83.0.4103.122|420821|
+|[v9.3.5](https://github.com/electron/electron/releases/tag/v9.3.5)|November 24, 2020||no|80|12.14.1|83.0.4103.122|185695|
+|[v9.3.4](https://github.com/electron/electron/releases/tag/v9.3.4)|November 10, 2020||no|80|12.14.1|83.0.4103.122|107262|
+|[v9.3.3](https://github.com/electron/electron/releases/tag/v9.3.3)|October 26, 2020||no|80|12.14.1|83.0.4103.122|140963|
+|[v9.3.2](https://github.com/electron/electron/releases/tag/v9.3.2)|October 5, 2020||no|80|12.14.1|83.0.4103.122|330058|
+|[v9.3.1](https://github.com/electron/electron/releases/tag/v9.3.1)|September 15, 2020||no|80|12.14.1|83.0.4103.122|315628|
+|[v9.3.0](https://github.com/electron/electron/releases/tag/v9.3.0)|September 3, 2020||no|80|12.14.1|83.0.4103.122|165973|
+|[v9.2.1](https://github.com/electron/electron/releases/tag/v9.2.1)|August 18, 2020||no|80|12.14.1|83.0.4103.122|290803|
+|[v9.2.0](https://github.com/electron/electron/releases/tag/v9.2.0)|August 7, 2020||no|80|12.14.1|83.0.4103.122|390053|
+|[v9.1.2](https://github.com/electron/electron/releases/tag/v9.1.2)|July 28, 2020||no|80|12.14.1|83.0.4103.122|237509|
+|[v9.1.1](https://github.com/electron/electron/releases/tag/v9.1.1)|July 20, 2020||no|80|12.14.1|83.0.4103.122|182182|
+|[v9.1.0](https://github.com/electron/electron/releases/tag/v9.1.0)|July 6, 2020||no|80|12.14.1|83.0.4103.122|499431|
+|[v9.0.5](https://github.com/electron/electron/releases/tag/v9.0.5)|June 22, 2020||no|80|12.14.1|83.0.4103.119|351526|
+|[v9.0.4](https://github.com/electron/electron/releases/tag/v9.0.4)|June 12, 2020||no|80|12.14.1|83.0.4103.104|199901|
+|[v9.0.3](https://github.com/electron/electron/releases/tag/v9.0.3)|June 8, 2020||no|80|12.14.1|83.0.4103.100|95629|
+|[v9.0.2](https://github.com/electron/electron/releases/tag/v9.0.2)|June 2, 2020||no|80|12.14.1|83.0.4103.94|180988|
+|[v9.0.1](https://github.com/electron/electron/releases/tag/v9.0.1)|June 1, 2020||no|80|12.14.1|83.0.4103.94|63694|
+|[v9.0.0](https://github.com/electron/electron/releases/tag/v9.0.0)|May 19, 2020||no|80|12.14.1|83.0.4103.64|929365|
+|[v9.0.0-nightly.20200121](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200121)|January 21, 2020||yes|76|12.14.1|81.0.4030.0|1006|
+|[v9.0.0-nightly.20200119](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200119)|January 19, 2020||yes|76|12.14.1|81.0.4030.0|406|
+|[v9.0.0-nightly.20200117](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200117)|January 17, 2020||yes|76|12.14.1|81.0.3994.0|539|
+|[v9.0.0-nightly.20200116](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200116)|January 16, 2020||yes|76|12.14.1|81.0.3994.0|481|
+|[v9.0.0-nightly.20200115](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200115)|January 15, 2020||yes|76|12.14.1|81.0.3994.0|440|
+|[v9.0.0-nightly.20200113](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200113)|January 13, 2020||yes|76|12.14.1|81.0.3994.0|440|
+|[v9.0.0-nightly.20200111](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200111)|January 11, 2020||yes|76|12.14.1|81.0.3994.0|369|
+|[v9.0.0-nightly.20200110](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200110)|January 10, 2020||yes|76|12.14.1|81.0.3994.0|448|
+|[v9.0.0-nightly.20200109](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200109)|January 9, 2020||yes|76|12.14.0|81.0.3994.0|401|
+|[v9.0.0-nightly.20200108](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200108)|January 8, 2020||yes|76|12.14.0|81.0.3994.0|414|
+|[v9.0.0-nightly.20200106](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200106)|January 6, 2020||yes|76|12.14.0|81.0.3994.0|382|
+|[v9.0.0-nightly.20200105](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200105)|January 5, 2020||yes|76|12.14.0|81.0.3994.0|367|
+|[v9.0.0-nightly.20200104](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200104)|January 4, 2020||yes|76|12.14.0|81.0.3994.0|486|
+|[v9.0.0-nightly.20200103](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200103)|January 3, 2020||yes|76|12.14.0|81.0.3994.0|379|
 |[v9.0.0-nightly.20200101](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20200101)|January 1, 2020||yes|76|12.14.0|81.0.3994.0|482|
 |[v9.0.0-nightly.20191231](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20191231)|December 31, 2019||yes|76|12.14.0|81.0.3994.0|388|
 |[v9.0.0-nightly.20191230](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20191230)|December 30, 2019||yes|76|12.14.0|81.0.3994.0|396|
@@ -1275,50 +1275,50 @@ MIT
 |[v9.0.0-nightly.20191123](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20191123)|November 23, 2019||yes|76|12.13.0|80.0.3954.0|399|
 |[v9.0.0-nightly.20191122](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20191122)|November 22, 2019||yes|76|12.13.0|80.0.3954.0|409|
 |[v9.0.0-nightly.20191121](https://github.com/electron/electron/releases/tag/v9.0.0-nightly.20191121)|November 21, 2019||yes|76|12.13.0|80.0.3954.0|415|
-|[v9.0.0-beta.24](https://github.com/electron/electron/releases/tag/v9.0.0-beta.24)|2020-05-11|beta-9-x-y|yes|80|12.14.1|83.0.4103.45|13924|
-|[v9.0.0-beta.23](https://github.com/electron/electron/releases/tag/v9.0.0-beta.23)|2020-05-07||yes|80|12.14.1|83.0.4103.44|1624|
-|[v9.0.0-beta.22](https://github.com/electron/electron/releases/tag/v9.0.0-beta.22)|2020-04-30||yes|80|12.14.1|83.0.4103.34|6005|
-|[v9.0.0-beta.21](https://github.com/electron/electron/releases/tag/v9.0.0-beta.21)|2020-04-28||yes|80|12.14.1|83.0.4103.26|1819|
-|[v9.0.0-beta.20](https://github.com/electron/electron/releases/tag/v9.0.0-beta.20)|2020-04-27||yes|80|12.14.1|83.0.4103.26|1501|
-|[v9.0.0-beta.19](https://github.com/electron/electron/releases/tag/v9.0.0-beta.19)|2020-04-24||yes|80|12.14.1|83.0.4103.24|2431|
-|[v9.0.0-beta.18](https://github.com/electron/electron/releases/tag/v9.0.0-beta.18)|2020-04-20||yes|80|12.14.1|83.0.4103.16|2354|
-|[v9.0.0-beta.17](https://github.com/electron/electron/releases/tag/v9.0.0-beta.17)|2020-04-17||yes|80|12.14.1|83.0.4103.14|1926|
-|[v9.0.0-beta.16](https://github.com/electron/electron/releases/tag/v9.0.0-beta.16)|2020-04-13||yes|80|12.14.1|83.0.4102.3|2127|
-|[v9.0.0-beta.15](https://github.com/electron/electron/releases/tag/v9.0.0-beta.15)|2020-04-09||yes|80|12.14.1|83.0.4102.3|2763|
-|[v9.0.0-beta.14](https://github.com/electron/electron/releases/tag/v9.0.0-beta.14)|2020-04-06||yes|80|12.14.1|82.0.4085.27|2473|
-|[v9.0.0-beta.13](https://github.com/electron/electron/releases/tag/v9.0.0-beta.13)|2020-04-02||yes|80|12.14.1|82.0.4085.14|5099|
-|[v9.0.0-beta.12](https://github.com/electron/electron/releases/tag/v9.0.0-beta.12)|2020-03-30||yes|80|12.14.1|82.0.4085.14|2126|
-|[v9.0.0-beta.10](https://github.com/electron/electron/releases/tag/v9.0.0-beta.10)|2020-03-23||yes|80|12.14.1|82.0.4085.10|2560|
-|[v9.0.0-beta.9](https://github.com/electron/electron/releases/tag/v9.0.0-beta.9)|2020-03-16||yes|80|12.14.1|82.0.4058.2|2963|
-|[v9.0.0-beta.7](https://github.com/electron/electron/releases/tag/v9.0.0-beta.7)|2020-03-09||yes|80|12.14.1|82.0.4058.2|2546|
-|[v9.0.0-beta.6](https://github.com/electron/electron/releases/tag/v9.0.0-beta.6)|2020-03-06||yes|80|12.14.1|82.0.4058.2|3041|
-|[v9.0.0-beta.5](https://github.com/electron/electron/releases/tag/v9.0.0-beta.5)|2020-03-02||yes|80|12.14.1|82.0.4048.0|4312|
+|[v9.0.0-beta.24](https://github.com/electron/electron/releases/tag/v9.0.0-beta.24)|May 11, 2020|beta-9-x-y|yes|80|12.14.1|83.0.4103.45|13924|
+|[v9.0.0-beta.23](https://github.com/electron/electron/releases/tag/v9.0.0-beta.23)|May 7, 2020||yes|80|12.14.1|83.0.4103.44|1624|
+|[v9.0.0-beta.22](https://github.com/electron/electron/releases/tag/v9.0.0-beta.22)|April 30, 2020||yes|80|12.14.1|83.0.4103.34|6005|
+|[v9.0.0-beta.21](https://github.com/electron/electron/releases/tag/v9.0.0-beta.21)|April 28, 2020||yes|80|12.14.1|83.0.4103.26|1819|
+|[v9.0.0-beta.20](https://github.com/electron/electron/releases/tag/v9.0.0-beta.20)|April 27, 2020||yes|80|12.14.1|83.0.4103.26|1501|
+|[v9.0.0-beta.19](https://github.com/electron/electron/releases/tag/v9.0.0-beta.19)|April 24, 2020||yes|80|12.14.1|83.0.4103.24|2431|
+|[v9.0.0-beta.18](https://github.com/electron/electron/releases/tag/v9.0.0-beta.18)|April 20, 2020||yes|80|12.14.1|83.0.4103.16|2354|
+|[v9.0.0-beta.17](https://github.com/electron/electron/releases/tag/v9.0.0-beta.17)|April 17, 2020||yes|80|12.14.1|83.0.4103.14|1926|
+|[v9.0.0-beta.16](https://github.com/electron/electron/releases/tag/v9.0.0-beta.16)|April 13, 2020||yes|80|12.14.1|83.0.4102.3|2127|
+|[v9.0.0-beta.15](https://github.com/electron/electron/releases/tag/v9.0.0-beta.15)|April 9, 2020||yes|80|12.14.1|83.0.4102.3|2763|
+|[v9.0.0-beta.14](https://github.com/electron/electron/releases/tag/v9.0.0-beta.14)|April 6, 2020||yes|80|12.14.1|82.0.4085.27|2473|
+|[v9.0.0-beta.13](https://github.com/electron/electron/releases/tag/v9.0.0-beta.13)|April 2, 2020||yes|80|12.14.1|82.0.4085.14|5099|
+|[v9.0.0-beta.12](https://github.com/electron/electron/releases/tag/v9.0.0-beta.12)|March 30, 2020||yes|80|12.14.1|82.0.4085.14|2126|
+|[v9.0.0-beta.10](https://github.com/electron/electron/releases/tag/v9.0.0-beta.10)|March 23, 2020||yes|80|12.14.1|82.0.4085.10|2560|
+|[v9.0.0-beta.9](https://github.com/electron/electron/releases/tag/v9.0.0-beta.9)|March 16, 2020||yes|80|12.14.1|82.0.4058.2|2963|
+|[v9.0.0-beta.7](https://github.com/electron/electron/releases/tag/v9.0.0-beta.7)|March 9, 2020||yes|80|12.14.1|82.0.4058.2|2546|
+|[v9.0.0-beta.6](https://github.com/electron/electron/releases/tag/v9.0.0-beta.6)|March 6, 2020||yes|80|12.14.1|82.0.4058.2|3041|
+|[v9.0.0-beta.5](https://github.com/electron/electron/releases/tag/v9.0.0-beta.5)|March 2, 2020||yes|80|12.14.1|82.0.4048.0|4312|
 |[v9.0.0-beta.4](https://github.com/electron/electron/releases/tag/v9.0.0-beta.4)|February 28, 2020||yes|80|12.14.1|82.0.4048.0|2146|
 |[v9.0.0-beta.3](https://github.com/electron/electron/releases/tag/v9.0.0-beta.3)|February 26, 2020||yes|80|12.14.1|82.0.4048.0|1965|
 |[v9.0.0-beta.2](https://github.com/electron/electron/releases/tag/v9.0.0-beta.2)|February 16, 2020||yes|80|12.14.1|82.0.4048.0|2475|
 |[v9.0.0-beta.1](https://github.com/electron/electron/releases/tag/v9.0.0-beta.1)|February 10, 2020||yes|76|12.14.1|82.0.4048.0|2233|
-|[v8.5.5](https://github.com/electron/electron/releases/tag/v8.5.5)|2020-11-18|8-x-y|no|76|12.13.0|80.0.3987.163|668689|
-|[v8.5.4](https://github.com/electron/electron/releases/tag/v8.5.4)|2020-11-17||no|76|12.13.0|80.0.3987.163|17526|
-|[v8.5.3](https://github.com/electron/electron/releases/tag/v8.5.3)|2020-10-30||no|76|12.13.0|80.0.3987.163|89162|
-|[v8.5.2](https://github.com/electron/electron/releases/tag/v8.5.2)|2020-09-22||no|76|12.13.0|80.0.3987.165|350550|
-|[v8.5.1](https://github.com/electron/electron/releases/tag/v8.5.1)|2020-09-03||no|76|12.13.0|80.0.3987.165|78966|
-|[v8.5.0](https://github.com/electron/electron/releases/tag/v8.5.0)|2020-08-07||no|76|12.13.0|80.0.3987.165|122121|
-|[v8.4.1](https://github.com/electron/electron/releases/tag/v8.4.1)|2020-07-23||no|76|12.13.0|80.0.3987.165|145330|
-|[v8.4.0](https://github.com/electron/electron/releases/tag/v8.4.0)|2020-07-07||no|76|12.13.0|80.0.3987.165|79535|
-|[v8.3.4](https://github.com/electron/electron/releases/tag/v8.3.4)|2020-06-25||no|76|12.13.0|80.0.3987.165|88826|
-|[v8.3.3](https://github.com/electron/electron/releases/tag/v8.3.3)|2020-06-18||no|76|12.13.0|80.0.3987.165|130939|
-|[v8.3.2](https://github.com/electron/electron/releases/tag/v8.3.2)|2020-06-15||no|76|12.13.0|80.0.3987.165|28799|
-|[v8.3.1](https://github.com/electron/electron/releases/tag/v8.3.1)|2020-06-01||no|76|12.13.0|80.0.3987.165|86551|
-|[v8.3.0](https://github.com/electron/electron/releases/tag/v8.3.0)|2020-05-15||no|76|12.13.0|80.0.3987.165|218654|
-|[v8.2.5](https://github.com/electron/electron/releases/tag/v8.2.5)|2020-04-30||no|76|12.13.0|80.0.3987.165|479425|
-|[v8.2.4](https://github.com/electron/electron/releases/tag/v8.2.4)|2020-04-28||no|76|12.13.0|80.0.3987.165|156006|
-|[v8.2.3](https://github.com/electron/electron/releases/tag/v8.2.3)|2020-04-16||no|76|12.13.0|80.0.3987.163|311143|
-|[v8.2.2](https://github.com/electron/electron/releases/tag/v8.2.2)|2020-04-13||no|76|12.13.0|80.0.3987.163|96955|
-|[v8.2.1](https://github.com/electron/electron/releases/tag/v8.2.1)|2020-04-06||no|76|12.13.0|80.0.3987.163|140886|
-|[v8.2.0](https://github.com/electron/electron/releases/tag/v8.2.0)|2020-03-24||no|76|12.13.0|80.0.3987.158|472013|
-|[v8.1.1](https://github.com/electron/electron/releases/tag/v8.1.1)|2020-03-10||no|76|12.13.0|80.0.3987.141|260439|
-|[v8.1.0](https://github.com/electron/electron/releases/tag/v8.1.0)|2020-03-06||no|76|12.13.0|80.0.3987.137|52491|
-|[v8.0.3](https://github.com/electron/electron/releases/tag/v8.0.3)|2020-03-03||no|76|12.13.0|80.0.3987.134|127926|
+|[v8.5.5](https://github.com/electron/electron/releases/tag/v8.5.5)|November 18, 2020|8-x-y|no|76|12.13.0|80.0.3987.163|668689|
+|[v8.5.4](https://github.com/electron/electron/releases/tag/v8.5.4)|November 17, 2020||no|76|12.13.0|80.0.3987.163|17526|
+|[v8.5.3](https://github.com/electron/electron/releases/tag/v8.5.3)|October 30, 2020||no|76|12.13.0|80.0.3987.163|89162|
+|[v8.5.2](https://github.com/electron/electron/releases/tag/v8.5.2)|September 22, 2020||no|76|12.13.0|80.0.3987.165|350550|
+|[v8.5.1](https://github.com/electron/electron/releases/tag/v8.5.1)|September 3, 2020||no|76|12.13.0|80.0.3987.165|78966|
+|[v8.5.0](https://github.com/electron/electron/releases/tag/v8.5.0)|August 7, 2020||no|76|12.13.0|80.0.3987.165|122121|
+|[v8.4.1](https://github.com/electron/electron/releases/tag/v8.4.1)|July 23, 2020||no|76|12.13.0|80.0.3987.165|145330|
+|[v8.4.0](https://github.com/electron/electron/releases/tag/v8.4.0)|July 7, 2020||no|76|12.13.0|80.0.3987.165|79535|
+|[v8.3.4](https://github.com/electron/electron/releases/tag/v8.3.4)|June 25, 2020||no|76|12.13.0|80.0.3987.165|88826|
+|[v8.3.3](https://github.com/electron/electron/releases/tag/v8.3.3)|June 18, 2020||no|76|12.13.0|80.0.3987.165|130939|
+|[v8.3.2](https://github.com/electron/electron/releases/tag/v8.3.2)|June 15, 2020||no|76|12.13.0|80.0.3987.165|28799|
+|[v8.3.1](https://github.com/electron/electron/releases/tag/v8.3.1)|June 1, 2020||no|76|12.13.0|80.0.3987.165|86551|
+|[v8.3.0](https://github.com/electron/electron/releases/tag/v8.3.0)|May 15, 2020||no|76|12.13.0|80.0.3987.165|218654|
+|[v8.2.5](https://github.com/electron/electron/releases/tag/v8.2.5)|April 30, 2020||no|76|12.13.0|80.0.3987.165|479425|
+|[v8.2.4](https://github.com/electron/electron/releases/tag/v8.2.4)|April 28, 2020||no|76|12.13.0|80.0.3987.165|156006|
+|[v8.2.3](https://github.com/electron/electron/releases/tag/v8.2.3)|April 16, 2020||no|76|12.13.0|80.0.3987.163|311143|
+|[v8.2.2](https://github.com/electron/electron/releases/tag/v8.2.2)|April 13, 2020||no|76|12.13.0|80.0.3987.163|96955|
+|[v8.2.1](https://github.com/electron/electron/releases/tag/v8.2.1)|April 6, 2020||no|76|12.13.0|80.0.3987.163|140886|
+|[v8.2.0](https://github.com/electron/electron/releases/tag/v8.2.0)|March 24, 2020||no|76|12.13.0|80.0.3987.158|472013|
+|[v8.1.1](https://github.com/electron/electron/releases/tag/v8.1.1)|March 10, 2020||no|76|12.13.0|80.0.3987.141|260439|
+|[v8.1.0](https://github.com/electron/electron/releases/tag/v8.1.0)|March 6, 2020||no|76|12.13.0|80.0.3987.137|52491|
+|[v8.0.3](https://github.com/electron/electron/releases/tag/v8.0.3)|March 3, 2020||no|76|12.13.0|80.0.3987.134|127926|
 |[v8.0.2](https://github.com/electron/electron/releases/tag/v8.0.2)|February 26, 2020||no|76|12.13.0|80.0.3987.86|255552|
 |[v8.0.1](https://github.com/electron/electron/releases/tag/v8.0.1)|February 14, 2020||no|76|12.13.0|80.0.3987.86|211316|
 |[v8.0.0](https://github.com/electron/electron/releases/tag/v8.0.0)|February 3, 2020||no|76|12.13.0|80.0.3987.86|760925|
